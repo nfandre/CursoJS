@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cefb999e-31f4-499b-821b-a6af00cf3c80" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1dB4V9odT3yFnzlNOpqITSXecoC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\AndredeFreitas\Desktop\JS\functions\exercicios" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="node" />
+      <command value="node " />
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cefb999e-31f4-499b-821b-a6af00cf3c80" name="Default Changelist" comment="" />
+      <created>1591885173622</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591885173622</updated>
+      <workItem from="1591885174973" duration="6796000" />
+      <workItem from="1591972828243" duration="5161000" />
+      <workItem from="1592142890829" duration="4804000" />
+      <workItem from="1592156124618" duration="65000" />
+      <workItem from="1592226284133" duration="3149000" />
+      <workItem from="1592229784972" duration="69000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="511" y="90" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591885801726">
+      <screen x="0" y="0" width="1603" height="862" />
+    </state>
+    <state x="511" y="90" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1603.862@0.0.1603.862" timestamp="1591885801726" />
+    <state x="977" y="238" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1591885228060">
+      <screen x="0" y="0" width="1603" height="862" />
+    </state>
+    <state x="977" y="238" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1603.862@0.0.1603.862" timestamp="1591885228060" />
+    <state x="581" y="186" key="FileChooserDialogImpl" timestamp="1592229856948">
+      <screen x="0" y="0" width="1603" height="862" />
+    </state>
+    <state x="581" y="186" key="FileChooserDialogImpl/0.0.1603.862@0.0.1603.862" timestamp="1592229856948" />
+    <state x="855" y="199" width="672" height="677" key="run.anything.popup" timestamp="1591885789074">
+      <screen x="0" y="0" width="1603" height="862" />
+    </state>
+    <state x="855" y="199" width="672" height="677" key="run.anything.popup/0.0.1603.862@0.0.1603.862" timestamp="1591885789074" />
+    <state x="863" y="183" width="672" height="678" key="search.everywhere.popup" timestamp="1591885310624">
+      <screen x="0" y="0" width="1603" height="862" />
+    </state>
+    <state x="863" y="183" width="672" height="678" key="search.everywhere.popup/0.0.1603.862@0.0.1603.862" timestamp="1591885310624" />
+  </component>
+</project>
